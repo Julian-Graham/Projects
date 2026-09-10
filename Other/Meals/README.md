@@ -1,1 +1,1 @@
-Wheel of recipies.py    what is it and what inspired me    
+ Do you have a diffisult time deciding what to cook. Well, no worries, I did thats why I programmed this to help decide. for fast dicision, and thriftyness. The user inputs a base food. Lets say the base is chicken, the program outputs poppy seed chicken casarole, and the program also lists all the recipies that include ingredients, not spices or oils, from that recipe. an example, if poppy seed chicken one night, since it requires rice, then maybe fried rice the next night, or stir fry or beans and rice.
