@@ -1,1 +1,1 @@
-this is a spider robot based on syfy games. it only went in circles
+Initially, I positioned the legs parallel to one another, which allowed the hexapod to move forward, backward, and side to side. However, when I changed the leg orientation so that the legs were positioned perpendicular to the robot's body, the robot no longer moved as expected. The change in leg orientation affected how the movement commands translated to the robot's motion, which led me to investigate alternative approaches to controlling the legs.
